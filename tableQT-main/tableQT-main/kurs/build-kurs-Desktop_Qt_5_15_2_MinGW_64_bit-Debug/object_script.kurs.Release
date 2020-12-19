@@ -1,0 +1,16 @@
+release/addtable.o
+release/addwindow.o
+release/database.o
+release/date.o
+release/editor.o
+release/main.o
+release/mainwindow.o
+release/setting.o
+release/tablesetting.o
+release/qrc_resource.o
+release/moc_addtable.o
+release/moc_addwindow.o
+release/moc_editor.o
+release/moc_mainwindow.o
+release/moc_setting.o
+release/moc_tablesetting.o

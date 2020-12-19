@@ -1,0 +1,16 @@
+debug/addtable.o
+debug/addwindow.o
+debug/database.o
+debug/date.o
+debug/editor.o
+debug/main.o
+debug/mainwindow.o
+debug/setting.o
+debug/tablesetting.o
+debug/qrc_resource.o
+debug/moc_addtable.o
+debug/moc_addwindow.o
+debug/moc_editor.o
+debug/moc_mainwindow.o
+debug/moc_setting.o
+debug/moc_tablesetting.o
